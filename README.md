@@ -20,7 +20,9 @@
 
 - Deleting Linked List Node without header
 - Detecting Loop in Linked List
+- Sum pair in linked list
 
 ## Others
 
 - Number to words
+- Matrix (Number of paths from top left to bottom right)

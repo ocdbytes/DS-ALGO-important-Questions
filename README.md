@@ -22,6 +22,10 @@
 - Detecting Loop in Linked List
 - Sum pair in linked list
 
+## Queues
+
+- Reverse First K elements of Queue
+
 ## Others
 
 - Number to words

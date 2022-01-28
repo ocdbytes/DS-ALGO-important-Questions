@@ -9,6 +9,8 @@
 - Doubly Linked List
 - Queues
 - Stacks
+- Binary Tree
+- Binary Search Trees
 
 ## Algorithms
 

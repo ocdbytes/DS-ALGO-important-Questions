@@ -11,6 +11,7 @@
 - Stacks
 - Binary Tree
 - Binary Search Trees
+- Graphs
 
 ## Algorithms
 

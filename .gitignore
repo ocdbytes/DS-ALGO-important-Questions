@@ -12,3 +12,5 @@ build/
 doc/*.txt
 # ignore all .pdf files in the doc/ directory and any of its subdirectories
 doc/**/*.pdf
+.cph
+*.bin

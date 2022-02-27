@@ -29,7 +29,16 @@
 
 - Reverse First K elements of Queue
 
+## Vectors
+
+- Alphanumeric Vector
+
 ## Others
 
 - Number to words
 - Matrix (Number of paths from top left to bottom right)
+- Stars and Bars Technique
+
+## Topics
+
+- Bit Manipulation

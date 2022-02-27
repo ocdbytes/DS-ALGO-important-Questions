@@ -30,6 +30,13 @@ void insertAtTail(Node *&head, int val)
     temp->next = n;
 }
 
+void insertAtHead(Node *&head, int val)
+{
+    Node *n = new Node(val);
+    Node *temp = head;
+    temp->next = n;
+}
+
 void display(Node *head)
 {
     Node *temp = head;
@@ -64,6 +71,10 @@ int main()
         cin >> a;
         insertAtTail(head, a);
     }
-    middle(head, n);
+    // middle(head, n);
+    // int a;
+    display(head);
+    // scanf("%d", &a);
+    // printf("%d", a);
     return 0;
 }

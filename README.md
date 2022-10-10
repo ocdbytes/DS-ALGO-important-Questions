@@ -12,3 +12,4 @@
 ## Algorithms
 
 - Binary Search
+- Kadane's Algorithm

@@ -3,6 +3,7 @@
 ## Data structures
 
 - Arrays
+- LinkedList
 
 ## Approaches
 
